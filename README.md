@@ -6,6 +6,6 @@ Repositório de análises de situações-problema apresentadas durante a discipl
 
 [EN]
 
-Repository of different analysis realized during the 'Machine Learning Techniques' course. The emphesis is in application of different practices for econometric modeling.
+Repository of different analysis realized during the course "Técnicas de Machine Learing". The emphesis is in application of different practices for econometric modeling.
 
 * Each file is presented with a specific scope and includes commented explanations when possible.
